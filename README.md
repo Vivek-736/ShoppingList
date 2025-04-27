@@ -27,4 +27,3 @@ Welcome to the **Shopping List Application**! This app allows users to efficient
   <img src="https://github.com/Vivek-736/UnitConverter/blob/0f9c709fd4ae7a5822c329233ff8d3cd3bdab87d/screenshot1.jpg" alt="Screenshot 2" width="200"/>
 </div>
 
-Start organizing your shopping today with the **Shopping List Application**!  
